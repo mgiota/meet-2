@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/meet-2/static/css/main.a617e044.chunk.css",
+    "main.js": "/meet-2/static/js/main.17b57b35.chunk.js",
+    "main.js.map": "/meet-2/static/js/main.17b57b35.chunk.js.map",
+    "runtime-main.js": "/meet-2/static/js/runtime-main.b2c58797.js",
+    "runtime-main.js.map": "/meet-2/static/js/runtime-main.b2c58797.js.map",
+    "static/js/2.242e7cbf.chunk.js": "/meet-2/static/js/2.242e7cbf.chunk.js",
+    "static/js/2.242e7cbf.chunk.js.map": "/meet-2/static/js/2.242e7cbf.chunk.js.map",
+    "static/js/3.9bd71696.chunk.js": "/meet-2/static/js/3.9bd71696.chunk.js",
+    "static/js/3.9bd71696.chunk.js.map": "/meet-2/static/js/3.9bd71696.chunk.js.map",
+    "index.html": "/meet-2/index.html",
+    "service-worker.js": "/meet-2/service-worker.js",
+    "service-worker.js.map": "/meet-2/service-worker.js.map",
+    "static/css/main.a617e044.chunk.css.map": "/meet-2/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.242e7cbf.chunk.js.LICENSE.txt": "/meet-2/static/js/2.242e7cbf.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/meet-2/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2c58797.js",
+    "static/js/2.242e7cbf.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.17b57b35.chunk.js"
+  ]
+}
